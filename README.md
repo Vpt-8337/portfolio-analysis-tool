@@ -26,7 +26,7 @@ bashpip install yfinance numpy pandas
 Or, if you have multiple Python versions, use:
 bash/usr/local/bin/python3 -m pip install yfinance numpy pandas
 Step 2: Clone or download the repository
-bashgit clone https://github.com/yourusername/portfolio-analysis-tool.git
+bashgit clone https://github.com/Vpt-8337/portfolio-analysis-tool.git
 cd portfolio-analysis-tool
 Step 3: Run the tool
 bashpython3 portfolio_analysis.py
